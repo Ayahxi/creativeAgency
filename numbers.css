@@ -1,0 +1,29 @@
+/* numbers section */
+.numbers {
+  position: relative;
+  background-image: url(/images/background/background2.webp);
+  height: 300px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.numbers-items {
+  overflow: hidden;
+  padding: 100px 0 ;
+}
+.numbers-item {
+  float: left;
+  width: 25%;
+  text-align: center;
+}
+.numbers-item .icon {
+  color: #6195ff;
+  margin-bottom: 15px;
+}
+.numbers-item-title {
+  font-weight: bold;
+  font-size: 30px;
+  color: #fff;
+}
+.numbers-item-text {
+  color: #fff;
+}
